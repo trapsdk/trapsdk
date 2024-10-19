@@ -1,12 +1,12 @@
 ### Hi There 👋, I'm Gabriel C.
 
- -
+ ---
 
 Computer Science Undergrad Student
 
 🚀 About Me
 
- -
+ ---
 
 Here are some ideas to get you started:
 
