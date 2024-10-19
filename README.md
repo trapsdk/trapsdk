@@ -11,7 +11,7 @@
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/cplusplus-%2320232a.svg?style=for-the-badge&logo=c++&logoColor=%2361DAFB" alt="c++"/>
+    <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB" alt="c++"/>
 
 ### 🔭 I’m currently working on
 - 🌱 I’m currently learning 
