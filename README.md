@@ -39,7 +39,7 @@ Understanding API's and backend development so I can become a fullstack develope
 
 ### 📫 Connect with me
 
-<object <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=discord&logoSize=auto&label=Discord&link=discordapp.com%2Fusers%2F269337984610992131" > </object> 
+<object alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=discord&logoSize=auto&label=Discord&link=discordapp.com%2Fusers%2F269337984610992131" > 
 
 
 
