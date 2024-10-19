@@ -1,7 +1,7 @@
 ### Hi There 👋, I'm Gabriel C.
  --- 
 
-I currently am a Computer Science Undergrad Student
+Computer Science Undergrad Student
 
 Here are some ideas to get you started:
 
