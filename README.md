@@ -1,4 +1,4 @@
-<h3 style="text-align:center;">H3 Hi There</h3>
+<h3 style="text-align:center;">Hi There 👋, I'm Gabriel C.</h3>
 <!--
 **trapsdk/trapsdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
