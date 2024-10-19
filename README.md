@@ -18,7 +18,8 @@
 <div display="flex">
  
   <img src="https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%white" alt="intellij"/>
-    <img src="https://img.shields.io/badge/jUnit-%2320232a.svg?style=for-the-badge&logo=junit5&logoColor=%white" alt="c++"/>
+    <img src="https://img.shields.io/badge/clion-%2320232a.svg?style=for-the-badge&logo=clion&logoColor=%white" alt="intellij"/>
+     <img src="https://img.shields.io/badge/jUnit-%2320232a.svg?style=for-the-badge&logo=junit5&logoColor=%white" alt="c++"/>
 
 ### 🌱 I’m currently learning 
 
