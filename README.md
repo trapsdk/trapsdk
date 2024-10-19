@@ -31,9 +31,13 @@
 
 ### 🔭 I’m currently working on
 
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with
-- 💬 Ask me about 
-- 📫 Connect with me:
+Creating a dashboard to help model an easy accessible financial application using react.
+
+### 🤔 I’m looking for help with
+
+Understanding API's and backend development so I can become a fullstack developer.
+
+### 📫 Connect with me
+
 
 -->
