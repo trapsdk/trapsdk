@@ -39,11 +39,8 @@ Understanding API's and backend development so I can become a fullstack develope
 
 ### 📫 Connect with me
 
-[My Discord](discordapp.com/users/269337984610992131)
-
-
 <div display="flex">
-  <a href="discordapp.com/users/269337984610992131">
+  <a href="https://discordapp.com/users/269337984610992131">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
