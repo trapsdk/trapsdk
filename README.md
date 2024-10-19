@@ -38,7 +38,11 @@ Creating a dashboard to help model an easy accessible financial application usin
 Understanding API's and backend development so I can become a fullstack developer.
 
 ### 📫 Connect with me
-    <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&link=discordapp.com%2Fusers%2F269337984610992131&logoColor=%white alt="discord"/>
+
+<div display="flex">
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?logo=discord&logoColor=purple&label=discord&link=discordapp.com%2Fusers%2F269337984610992131">
+
 
 
 
