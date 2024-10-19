@@ -20,8 +20,11 @@
   <img src="https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%white" alt="intellij"/>
     <img src="https://img.shields.io/badge/jUnit-%2320232a.svg?style=for-the-badge&logo=junit5&logoColor=%white" alt="c++"/>
 
+### 🌱 I’m currently learning 
+
+
 ### 🔭 I’m currently working on
-- 🌱 I’m currently learning 
+
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with
 - 💬 Ask me about 
