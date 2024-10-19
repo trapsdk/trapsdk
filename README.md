@@ -1,11 +1,11 @@
-### Hi There 👋, I'm Gabriel C.
+# Hi There 👋, I'm Gabriel C.
 
  --- 
 
- # I am currently pursuing an Associates degree in Computer Science at Everett Community College. I am passionate in problem solving and <br>
+ ### I am currently pursuing an Associates degree in Computer Science at Everett Community College. I am passionate in problem solving and <br>
  like to dabble in creating simplistic modern applications for potential end users to enjoy.
 
-### 🚀 About Me
+# 🚀 About Me
 
  --- 
 
