@@ -10,8 +10,8 @@
 ### ⌨ My languages
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%brown" alt="Java"/>
-    <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB" alt="c++"/>
+  <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%white" alt="Java"/>
+    <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%white" alt="c++"/>
 
 ### 🔭 I’m currently working on
 - 🌱 I’m currently learning 
