@@ -13,6 +13,13 @@
   <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%white" alt="Java"/>
     <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%white" alt="c++"/>
 
+### ⌨ My Development Enviorment
+
+<div display="flex">
+ 
+  <img src="https://img.shields.io/badge/intellijidea-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%white" alt="intellij"/>
+    <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%white" alt="c++"/>
+
 ### 🔭 I’m currently working on
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on
