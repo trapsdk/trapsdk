@@ -1,7 +1,7 @@
 ### Hi There 👋, I'm Gabriel C.
+ --- 
 
-
-**trapsdk/trapsdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently am a Computer Science Undergrad Student
 
 Here are some ideas to get you started:
 
