@@ -41,7 +41,7 @@ Understanding API's and backend development so I can become a fullstack develope
 
 <div display="flex">
   <a href="https://discordapp.com/users/269337984610992131">
-    <img src="https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=purple" alt="Discord"/>
+    <img src="https://img.shields.io/badge/discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
 
