@@ -1,4 +1,4 @@
-## Hi there 👋
+<p style="text-align:center;">Hi there</p>## Hi there 👋
 
 <!--
 **trapsdk/trapsdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
