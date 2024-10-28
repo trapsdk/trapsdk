@@ -31,6 +31,7 @@
 
 ### 🔭 I’m currently working on
 
+Creating a workout tracker application app to bring to mobile for end users.
 Creating a dashboard to help model an easy accessible financial application using react.
 
 ### 🤔 I’m looking for help with
