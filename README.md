@@ -2,7 +2,7 @@
 
 
  **I am currently pursuing an Bachelor's degree in Computer Science at Everett Community College. I am passionate in problem solving and
- like to create simple modern applications for potential end users to enjoy.**
+ like to create simple modern applications**
  
 
 # 🚀 About Me
